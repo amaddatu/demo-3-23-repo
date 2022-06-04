@@ -7,3 +7,13 @@ I will delete this in one month.
 https://www.youtube.com/watch?v=CMNry4PE93Y
 
 For all your blue cheese needs: https://www.jasperhillfarm.com
+
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      B-->F;
+      B-->E;
+      C-->E;
+```
