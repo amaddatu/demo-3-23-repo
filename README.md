@@ -10,8 +10,8 @@ For all your blue cheese needs: https://www.jasperhillfarm.com
 
 ```mermaid
   graph TD;
-      A-->B;
-      A-->C;
+      Cheese-->B;
+      Cheese-->C;
       B-->D;
       B-->F;
       B-->E;
